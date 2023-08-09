@@ -1,0 +1,5 @@
+Merge method has two available versions. The difference between merge and merge! is this idea of affecting the original object. With
+merge you typically create a new hash after using the method. Merge on a single hash creates a copy of the original, but combining
+this method with other hash arguments with return a new hash.
+
+Merge! alters the original object. No new hash is returned as a result, but the original - modified.
