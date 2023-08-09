@@ -1,0 +1,1 @@
+old_syntax_hash = {:name => 'bob'}
