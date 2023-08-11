@@ -1,0 +1,1 @@
+To be able to find out if a Hash contains a specific value. You can use the .value? method with an argument of the specific value.
